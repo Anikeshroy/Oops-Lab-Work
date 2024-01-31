@@ -1,1 +1,26 @@
-
+// Program to use friend function!
+#include<iostream>
+using namespace std;
+class numbers
+{
+    int num1, num2;
+    public:
+    void setdata (int a, int b);
+    friend int add (numbers N);
+};
+void numbers:: setdata (int a, int b) //friend function declaration.
+{
+    num1 = a;
+    num2 = b;
+}
+int add (numbers N)
+{
+    return (N.num1 + N.num2);
+}
+int main ()
+{
+    numbers N;
+    N.setdata (10,20);
+    cout<<"Sum = "<<add(N);
+    return 0;
+}
