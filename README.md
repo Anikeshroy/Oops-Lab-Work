@@ -32,7 +32,7 @@ If you have any improvements or additional features to suggest, please feel free
 
 
 ## OutPut (Day 1)
-Program to use getdata and putdata!
+- Program to use getdata and putdata!
 
 ```bash
 Enter name of employee: Anikesh
@@ -42,14 +42,14 @@ Employee id: 5
 ```
 
 ## OutPut (Day 2)
-Program to use private and public access modifier!
+- Program to use private and public access modifier!
     
 ```bash
 Value of public variable: 5
 ```
 
 ## OutPut (Day 3)
-Program to use static function!
+- Program to use static function!
 ```bash
 Value of count: 3
 Value of count: 3
@@ -57,19 +57,19 @@ Value of count: 3
 ```
 
 ## OutPut (Day 4)
-Find cube of any number using inline function!
+- Find cube of any number using inline function!
 ```bash
 Cube of the number: 1000
 ```
 
 ## OutPut (Day 5)
-Program to use friend function!
+- Program to use friend function!
 ```bash
 Sum = 30
 ```
 
 ## OutPut (Day 6)
-Program to use default argument!
+- Program to use default argument!
 ```bash
 a = 0 and b = 0
 a = 10 and b = 0
@@ -77,7 +77,7 @@ a = 10 and b = 99
 ```
 
 ## OutPut (Day 7)
-Program to use call by value and swap numbers!
+- Program to use call by value and swap numbers!
 ```bash
 Enter two numbers: 
 6
