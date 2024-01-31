@@ -1,0 +1,18 @@
+// Program to use private and public access modifier!
+#include <iostream>
+using namespace std;
+class abc
+{
+public:
+    int a;
+
+private:
+    int b;
+};
+int main()
+{
+    abc obj;
+    obj.a = 5;
+    cout << "Value of public variable: " << obj.a;
+    return 0;
+}
