@@ -24,7 +24,8 @@ Feel free to explore the code for each day to understand the implementations and
 ## Contributions
 If you have any improvements or additional features to suggest, please feel free to open an issue or submit a pull request. Contributions are highly welcomed!
 
-- 📫 Reach me **anikeshroy62040@gmail.com**
+## 🚀 Reach Me
+- 📫 Email **anikeshroy62040@gmail.com**
 
 - 📄 Check out my [Resume](https://resume.io/r/htscIJqIf)
 
