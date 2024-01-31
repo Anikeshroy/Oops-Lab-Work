@@ -1,0 +1,32 @@
+// Program to use static function!
+#include <iostream>
+using namespace std;
+class abc
+{
+    int number;
+    static int count;
+
+public:
+    void getdata(int a)
+    {
+        number = a;
+        count++;
+    }
+    static void getcount()
+    {
+        cout << "Value of count: " << count << endl;
+    }
+};
+int abc::count = 0;
+int main()
+{
+    abc obj1, obj2, obj3;
+    obj1.getdata(100);
+    obj2.getdata(200);
+    obj3.getdata(300);
+
+    abc::getcount();
+    abc::getcount();
+    abc::getcount();
+    return 0;
+}
