@@ -1,0 +1,31 @@
+// Program to use getdata and putdata!
+#include <iostream>
+using namespace std;
+class employee
+{
+    char name[10];
+    int id;
+
+public:
+    void getdata();
+    void putdata();
+};
+void employee::getdata()
+{
+    cout << "Enter name of employee: ";
+    cin >> name;
+    cout << "Enter id of employee: ";
+    cin >> id;
+}
+void employee::putdata()
+{
+    cout << "Employee name: " << name << endl;
+    cout << "Employee id: " << id << endl;
+}
+int main()
+{
+    employee obj;
+    obj.getdata();
+    obj.putdata();
+    return 0;
+}
