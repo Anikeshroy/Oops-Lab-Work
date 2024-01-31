@@ -1,4 +1,4 @@
-// Find cube of number using inline function!
+// Find cube of any number using inline function!
 #include <iostream>
 using namespace std;
 inline int cube(int n)
