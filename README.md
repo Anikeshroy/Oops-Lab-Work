@@ -1,9 +1,9 @@
 # Oop's Lab Work 🖥️ 
 ## Day 1 to Day 7
-This repository contains my solutions and implementations for the Oop's lab work conducted over seven days. The lab work covers a variety of topics , concepts and questions related to C++.
+This repository contains my solutions and implementations for the Oop's lab work conducted over seven days. The lab work covers a variety of topics, concepts and questions related to C++.
 
 ## Lab Structure
-The lab work is organized into seven distinct days, each focusing on specific aspects of OOP. The breakdown of topics , concepts and questions for each day is as follows:
+The lab work is organized into seven distinct days, each focusing on specific aspects of OOP. The breakdown of topics, concepts and questions for each day is as follows:
 
 | SNo | Program Name | Link |
 | ----------- | ----------- | ----------- |
