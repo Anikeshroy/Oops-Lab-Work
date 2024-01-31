@@ -1,0 +1,22 @@
+// Program to use call by value and swap numbers!
+#include<iostream>
+using namespace std;
+void swap (int a, int b);
+int main ()
+{
+    int a,b;
+    cout<<"Enter two numbers: "<<endl;
+    cin>>a;
+    cin>>b;
+    cout<<"The numbers are: "<<a<<","<<b<<endl;
+    swap(a,b);
+    return 0;
+}
+void swap (int a, int b)
+{
+    int temp;
+    temp = a;
+    a = b;
+    b = temp;
+    cout<<"The swap numbers are: "<<a<<","<<b<<endl;
+}
